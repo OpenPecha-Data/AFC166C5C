@@ -1,0 +1,26 @@
+segment_sources:
+  I4E707EAB:
+    type: origin_type
+    relation: translation
+    language: sa
+  I12FDFBDB:
+    type: origin_type
+    relation: translation
+    language: zh
+  I2790C60F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  14671ccae81042148b535d87f498d390:
+    I4E707EAB: 060fd1bbc3fd430eb4a8cbece194334c
+    I12FDFBDB: b86eb4e10e7949479420801ea2c49dce
+    I2790C60F: 3d2d265999c948fbb9ea952d9d8e4520
+  a0a025d906634d87a6acc92139515e14:
+    I4E707EAB: 18a2bdcaa1cf419a979ed5386d4b382a
+    I12FDFBDB: 2a45d649d29a4e51a839ee90d4523475
+    I2790C60F: bd9353f3ba344e09a9a700a619ff710c
+  2c084fb9e78840119adf0d390968810e:
+    I4E707EAB: 65abc9de66214d45b7c2e7e2e049b83b
+    I12FDFBDB: None
+    I2790C60F: b54634ba07004bb2a1ee8adeeeda7e21
